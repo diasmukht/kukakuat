@@ -13,7 +13,6 @@ DEBUG = True
 ALLOWED_HOSTS = ['.railway.app']
 
 INSTALLED_APPS = [
-    'django.contrib.admin',
     'main',
     'django.contrib.admin',
     'django.contrib.auth',
